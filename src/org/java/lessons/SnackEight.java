@@ -12,7 +12,6 @@ public class SnackEight {
         Scanner scanner=new Scanner(System.in);
         System.out.print(" inserisci il numero");
         String numero=scanner.nextLine();
-
         // trasformalo in array
 
         char[] numeroArray = numero.toCharArray();
